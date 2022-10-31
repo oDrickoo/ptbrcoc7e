@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "ptbrcoc7e",
   "id": "ptbrcoc7e",
   "system": "CoC7",
@@ -11,6 +11,17 @@
   },
   "systemVersion": "0.9.2",
   "url": "https://github.com/oDrickoo/ptbrcoc7e",
-  "manifest": "https://raw.githubusercontent.com/oDrickoo/ptbrcoc7e/main/world.json",  
-  "download": "https://github.com/oDrickoo/ptbrcoc7e/archive/refs/heads/main.zip"
+  "manifest": "https://raw.githubusercontent.com/oDrickoo/ptbrcoc7e/main/world.json",
+  "download": "https://github.com/oDrickoo/ptbrcoc7e/archive/refs/heads/main.zip",
+  "packs": [
+    {
+      "label": "Perícias",
+      "type": "Item",
+      "name": "pericias",
+      "path": "packs/pericias.db",
+      "system": "CoC7",
+      "private": false,
+      "flags": {}
+    }
+  ]
 }
