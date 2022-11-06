@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "title": "[oDrickoo] Compêndium de Cthulhu 7e",
   "id": "ptbrcoc7e",
   "system": "CoC7",
@@ -12,16 +12,5 @@
   "systemVersion": "0.9.2",
   "url": "https://github.com/oDrickoo/ptbrcoc7e",
   "manifest": "https://raw.githubusercontent.com/oDrickoo/ptbrcoc7e/main/world.json",
-  "download": "https://github.com/oDrickoo/ptbrcoc7e/archive/refs/heads/main.zip",
-  "packs": [
-    {
-      "label": "Perícias",
-      "type": "Item",
-      "name": "pericias",
-      "path": "packs/pericias.db",
-      "system": "CoC7",
-      "private": false,
-      "flags": {}
-    }
-  ]
+  "download": "https://github.com/oDrickoo/ptbrcoc7e/archive/refs/heads/main.zip"
 }
