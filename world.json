@@ -12,5 +12,16 @@
   "systemVersion": "0.9.2",
   "url": "https://github.com/oDrickoo/ptbrcoc7e",
   "manifest": "https://raw.githubusercontent.com/oDrickoo/ptbrcoc7e/main/world.json",
-  "download": "https://github.com/oDrickoo/ptbrcoc7e/archive/refs/heads/main.zip"
+  "download": "https://github.com/oDrickoo/ptbrcoc7e/archive/refs/heads/main.zip",
+  "packs": [
+    {
+      "label": "Perícias de NPCs",
+      "type": "Item",
+      "name": "pericias-de-npcs",
+      "path": "packs/pericias-de-npcs.db",
+      "system": "CoC7",
+      "private": false,
+      "flags": {}
+    }
+  ]
 }
