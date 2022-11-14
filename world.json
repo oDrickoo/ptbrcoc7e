@@ -22,6 +22,28 @@
       "system": "CoC7",
       "private": false,
       "flags": {}
+    },
+    {
+      "label": "Todos os Itens",
+      "type": "Item",
+      "name": "todos-os-itens",
+      "path": "packs/todos-os-itens.db",
+      "system": "CoC7",
+      "private": false,
+      "flags": {},
+      "id": "world.todos-os-itens",
+      "packageType": "world",
+      "packageName": "ptbrcoc7e",
+      "index": []
+    },
+    {
+      "label": "Baralhos",
+      "type": "JournalEntry",
+      "name": "baralhos",
+      "path": "packs/baralhos.db",
+      "system": "CoC7",
+      "private": false,
+      "flags": {}
     }
   ]
 }
